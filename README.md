@@ -1,6 +1,8 @@
 # Lorenz.Reg
 Fits a Lorenz regression Use Lorenz.Reg (LorenzRegression) With (In) R Software
 
+https://www.youtube.com/watch?v=Je_Z4F9gpDM
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
